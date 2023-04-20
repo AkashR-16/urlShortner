@@ -1,4 +1,4 @@
-# Simple bookstore application (Work In Progress) 
+# Url Shortner
 The following was discovered as part of building this project:
 This project was bootstrapped from https://start.spring.io/
 ## Tech Stack
